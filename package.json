@@ -1,0 +1,12 @@
+{
+  "name": "whatsappactor",
+  "version": "1.0.0",
+  "dependencies": {
+    "whatsapp-web.js": "^1.22.1",
+    "qrcode-terminal": "^0.12.0",
+    "apify": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
